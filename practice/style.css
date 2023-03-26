@@ -46,18 +46,6 @@ button:active {
   align-items: center;
   gap: 15px;
 }
-.spans {
-  text-align: center;
-  margin-top: 10px;
-}
-span {
-  width: 10px;
-  height: 10px;
-  background-color: #fff;
-  display: inline-block;
-  margin: 0 3px;
-  border-radius: 50%;
-}
 .main {
   width: 350px;
   height: 350px;
